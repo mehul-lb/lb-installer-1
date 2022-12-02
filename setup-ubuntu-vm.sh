@@ -131,6 +131,3 @@ while true
       exit 1
     fi
   done
-
-echo "Done! Ready to deploy LightBeam Cluster!!"
-
